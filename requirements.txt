@@ -1,0 +1,18 @@
+boto3
+cython
+numpy
+Pillow
+pycocotools
+pandas
+aicrowd-repo2docker
+aicrowd-api
+opencv-python
+pyyaml==5.1
+
+-f https://download.pytorch.org/whl/nightly/cpu.html
+
+
+
+-f https://download.openmmlab.com/mmcv/dist/cpu/torch1.13/index.html
+mmcv-full
+mmdet
