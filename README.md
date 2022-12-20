@@ -1,16 +1,35 @@
 # Project_SM
 
 
-## Overview
+Overview
+This is a template for building good machine learning projects.
 
-## Background and Motivation
+Background and Motivation
+In this section you can lay out the problem you're solving, the motivation behind solving it, and the approach you've taken.
 
-## Goals
+Goals
+In this section describe what you're looking to achieve in this work.
 
-## Datasets
+Datasets
+In this section describe the dataset you've used for building your machine learning models.
 
-## Practical Applications
+Usage
+Clone this repo
 
-## Milestones
+git clone 
+Create a virtual environment and activate it
 
-## References
+virtualenv .venv && source .venv/bin/activate
+Install all requirements
+
+pip install -r requirements.txt
+Run the web application
+
+python app.py
+Practical Applications
+In this section describe you can further describe your proposed solution and potential practical applications.
+
+Milestones
+In this section describe various phases of the project and potential future work.
+
+References
